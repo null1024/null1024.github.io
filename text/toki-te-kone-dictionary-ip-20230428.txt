@@ -1,0 +1,515 @@
+NOTE: this file is extremely unfinished. Several things may be wrong or contradictory to other files. Important information is missing. Toki te Kone is a work in progress and is subject to change at any time. There may be errors, both in content and in grammar. No warranty.
+This file is fairly up to date with my work on the language, but is missing a lot and there are definitely a few things that are extremely likely to be changed.
+
+Toki te Kone -> English dictionary
+2023 jan Nalu (null1024)
+
+legend: 
+(i) - interjection
+(part) - particle
+(pv) - preverb
+(pn) - pronoun
+(prep) - preposition
+(n) - noun
+(adj) - adjective
+(adv) - adverb
+(vi) - intransitive verb
+(vt) - transitive verb
+[ex:] - example sentence
+[notes:] - various notes on usage or what I was thinking
+
+===
+
+* a
+(i) expression of surprise, ah!
+(part) emphasizes either the previous noun/verb phrase (or the entire sentence if used at the end)
+[ex:] musi a. (Funny.)
+[notes:] stick this around to add emphasis.
+
+* akesi
+(n) reptile, amphibian, scaly creature or similar
+(adj) reptilian, amphibian, scaly
+[ex:] akesi pi ma Florida li wawa ta a. (The reptiles of Florida are powerful.) 
+[notes:] it's not a terribly precise term, and that's alright; I kinda wonder if dinosaurs still count as akesi given more recent developments
+
+* ala
+(i) - no!
+(n) - nothingness
+(adj), (adv) - not
+(vi) - to not exist
+(vt) - to make nothing, to remove, to cause to disappear (from existence)
+[ex:] tenpo pimeja pini la, mi lape ala e. (Last night, I didn't sleep.)
+[notes:] ala often gets used to make the opposite of a word -- "kiwen ala" tends to be "soft", for example
+
+* alasa
+(n) - hunt, search
+(adj), (adv) - huntingly, searchingly
+(vi), (vt) - to hunt, to search for, to seek
+[notes:] alasa tends to imply outdoorsy hunting sort of things, like hunting and tracking game, although there isn't actually anything stopping you from using to mean that you are looking for something in general
+
+* ale, ali
+(n) - everything, all, life
+(adj) all of, every
+(adv) wholly, completely, entirely
+(vi) - to live
+(vt) - to cause to live
+[notes:] this one might get modified due to the two somewhat far apart sets of meanings; but this really does consider someone's "everything" to be their life
+
+* anpa
+(n) bottom, under, floor
+(adj) underneath, below, low
+(adv) downwardly 
+(vi), (vt) - to lower
+[ex:] telo li tawa anpa kama u sewi. (Rain falls from the sky.) [TODO: might alter sewi]
+
+* ante
+(n) difference, change, alteration
+(adj) different, changed, altered
+(adv) differently
+(vi), (vt) to change, to alter, to make different
+[ex:] mi ante e lukin pi linja no mi. (I changed how my hair looks.) [TODO: am I using lukin like that?]
+[notes:] 
+
+* anu
+(part) or
+[ex:] sina tawa u tomo sina anu seme? (Are you going to your home?)
+[ex:] sina pilin e seme? tomo no mi li pona anu ike? ("What do you feel? Is my house good or bad?")
+[notes:] "anu seme" is literally "or what", but is an extremely standard way of asking a question, with no hard feelings.
+
+* awen
+(n) stillness, waiting
+(adj) still
+(adv) without moving?
+(vi) to stay, to wait, to remain
+(vt) to keep still, to cause to remain
+[ex:] ina li awen lon u supa no mi. (It stayed on my desk.)
+[notes:] Unlike how some TP use it, in TK, awen does not mean protection. [TODO: this is probably all wrong and I will change it]
+
+* e
+(part) marks the verb; anything after it is the direct object of the verb
+[ex:] mi moku e pan sike. (I ate the round bread.)
+[notes:] if you have an intransitive verb (a verb that doesn't target anything), you don't need to have e there, but it does mean the verb can be misinterpreted as a noun or an adjective
+
+* en
+(part) adds another part to the noun or verb phrase, works just like "and"
+[ex:] mi en sina li tawa en moku. (You and I eat and go.)
+[notes:] this was changed from Toki Pona to make things simpler, it sadly is basically just English "and" now, even though there was a clear, deliberate attempt to not just do that in TP -- again, this is entirely different to how it is handled in Toki Pona
+
+* epiku
+(n) coolness (not temperature), greatness, awesomeness, epicness, excellency
+(adj) cool, great, awesome, epic, excellent
+(adv) awesomely, greatly, epically
+(vi) to be awesome, to be great, to be cool
+(vt) to make awesome, to make great, to make cool, to improve upon
+[ex:] sina epiku ta! (You're great!)
+[notes:] not the biggest fan of this word due to its extreme overlap with "pona", but it's in ku, so it goes in, and it's not the worst; also any time the word "cool" is mentioned here, it isn't referring to temperature
+
+* esun
+(n) business, market, shop
+(adj) relating to business or finance
+(adv) financially
+(vi) to shop, to do business
+(vt) to buy
+[ex:] jan Milia li esun e kili. (Milia bought a fruit.)
+[notes:] use like "pana esun e" (lit: financially give) for "to sell"
+
+* ijo
+(n) thing, item, object
+(adj) physical
+(adv) physically, materially
+(vt)  to thingify (TODO: what does that mean???)
+[notes:] all the non-noun forms just feel weird to me
+
+* ike
+(n) badness, evilness, wrongness
+(adj) bad, evil, wrong (as opposed to good, rather than as opposed to correct)
+(adv) badly, poorly
+(vi) to do bad, to be bad
+(vt) to do bad to something, to harm
+[notes:] Toki te Kone doesn't make "ike" have an opinion about complexity, although I suspect a TK speaker to possibly still agree with that; also, although all these definitions sound prety harsh, you can just be like "na li ike" (that is bad) and not just immediately be like "oh man, that thing is eeeeevil"
+
+* ilo
+(n) tool, equipment, electronics, device, machine
+(adj) mechanical
+(adv) mechanically, electronically
+(v) to mechanize
+[ex:] ilo mi te pakala e kiwen li wawa ta a. (My stone breaking machine is powerful.)
+[notes:] as a noun, it doesn't necessarily imply something is electronic or mechanized or whatever, but I suspect a lot of things described with it will be; it feels a bit rough that all the other word forms are in fact about mechanical things, but whatever
+
+* insa
+(n) innards, inside area
+(adj) inside of
+(adv) inwardly
+(vi) to go inside
+(vt) to go inside of
+(prep) to be inside of
+[ex:] ona li insa u tomo no ona. (They're inside of their house.)
+[notes:] doesn't exactly mean stomach like in Toki Pona but you might end up saying something like "insa mi li pilin ike e"
+
+* jaki
+(n) filth, dirt, garbage
+(adj) filthy, dirty, nasty, disgusting
+(adv) filthily, nastily, disgustingly
+(vi) to be filthy
+(vt) to make filthy, to dirty
+[ex:] na li jaki ta a! (That's filthy!)
+
+* jan
+(n) person
+(adj) personal, person-like
+(adv) personally, in the way a person would
+[ex:] jan pona no mi li wile tawa u ma Tosi. (My friend wants to go to Germany.)
+[notes:] person doesn't have to mean human! if there were literal space aliens that ended up saying "mi mute li wile toki tawa u jan lawa no sina.", you would still probably call them jan. A "jan" is someone you could (even if only theoretically -- actual physical constraints do not apply) hold a conversation with. If we ever get an AI that is actually self-aware, I would probably call it "jan". Maybe "jan ilo", but "jan" first.
+
+* jasima
+(n) mirror, reflection, opposite
+(adj) opposite
+(adv) oppositely
+(vi), (vt) to reverse, to mirror, to make opposite, to flip over
+[ex:] mi jasima e lipu no mi. (I flipped over my book)
+[notes:] remember, all the ku words are in TK
+
+* jelo
+(n) yellow
+(adj) yellow
+(vi), (vt) to yellow, to become yellow
+[notes:] All the color words will be something like this. Also, I don't know how to use it as an adverb. Would that even make sense?
+
+* kala
+(n) sea creature, fish
+(adj) fish-like
+(adv) fishily (eg, "mi tawa kala e" would probably be to swim -- "I move like a fish")
+(vi), (vt) to fish, to trawl
+[ex:] tenpo suno kama la mi moku e kala mute. (Next morning, I'll eat a lot of fish.)
+[notes:] pretty much any primarily aquatic animal is described by kala, even like dolphins
+
+* kalama
+(n) sound, audio
+(adj) loud
+(adv) loudly
+(vi) to make sound
+(vt) to apply sound to, to project sound to
+[ex:] ilo kalama no mi li wawa i.
+
+* kama
+(pv) to be in the process of, to do later
+(n) arrival, happening, coming
+(adj) future, coming
+(vi) to come
+(vt) to cause, to summon, to bring about
+(prep) origin of, source of, from
+[ex:] mi kama sona e toki Nijon (I'm learning Japanese.) (lit: I come to know the Japanese lanugage)
+[ex:]
+[notes:] pre-verbs are a bit of a mess; also kama in TK replaces tan as meaning "from", tan now means strictly "because of" or "for this reason" now
+
+* kasi
+(n) plant, herb, shrub, something plant-like even if it isn't literally a plant (eg, a sponge might be describable as "kasi no telo" -- water's plant)
+(adj) botanical, herbal, plant-like
+(adv) botanically, herbally, plant-like
+(vi), (vt) ???
+
+* ken
+(pv) ability
+(n) possibility, potential, ability, chance
+(adj) possible
+(vi) to be able, to be permitted
+(vt) to allow, to permit
+[ex:] mi ken lape (I can sleep)
+[ex:] mi ken! (I can!)
+[ex:] ken la, ale li pona a. (Maybe everything will be great.)
+[notes:] you'll probably see "ken la" a lot at the start of sentences, this means "maybe" or "possibly"; I have no idea if I have the definition/usage for the verb forms set up right, how would I even use ken as a transitive verb?
+
+* kepeken
+(n) use
+(adj) useful
+(vi), (vt) to use
+(preposition) using, via
+[ex:] mi tawa u tomo no sina kepeken u tomo tawa mi. ("I went to your house using my car.")
+
+* kijetesantakalu
+(n) animal in the superfamily Musteloidea, namely raccoons
+(adj), (adv) like a racoon/other musteloid
+(vi), (vt) ??? you might be able to argue that "mi li kijetesantakalu e sina" would be "I racoonify you" but I don't like it one bit
+[notes:] this is arguably a joke word inherited from TP -- but it is still a word, and you should not be surprised if someone actually uses it
+
+* kili
+(n) fruit, vegetable, maybe nut
+(adj), (adv) like a fruit/nut/vegetable
+(vi), (vt) ???
+
+* kin
+(adj), (adv) also, too
+
+* kipisi
+(n) cut, split, division
+(adj) cut, split
+(adv) divisively 
+(vi), (vt) to cut, to split, to sever, to divide into pieces
+
+* kiwen
+(n) rock, stone, metal, other hard material
+(adj) hard, tough, durable, metallic, rocky
+(adv) ???
+(vi) to be hard, to be tough, to be durable
+(vt) to harden, to toughen, to make durable
+[notes:] should really figure out a distinction for metals at least, that seems important
+
+* ko
+(n) clay, dough, something semi-solid
+(adj) semi-solid, doughy, squishy
+(adv) like clay
+(vi), (vt) to squish
+
+* kokosila
+(n) the speaking of a language other than Toki te Kone in a group that speaks it
+(adj) like one who speaks a language other than Toki te Kone in a group that speaks it
+(vi) to speak a language other than Toki te Kone in a group that speaks it
+[notes:] I don't actually like this word much, but like, it is in the Toki Pona nimi ku suli, so it goes in
+
+* kon
+(n) gas, air, spirit, essence, meaning, breath
+(adj) gaseous, spiritual, wispy, breathy
+(adv) wispily, breathily
+(vi) to breathe
+
+* ku
+(n) the official Toki Pona Dictionary
+(adj) from the Toki Pona Dictionary
+(adv) like found in the Toki Pona Dictionary
+(vi) to interact with or otherwise utilize the Toki Pona Dictionary
+(vt) to utilize the Toki Pona Dictionary upon someone or something (eg, teach with it)
+[notes:] this is totally a legacy word and the meaning has not been altered to refer to Toki te Kone; I am deeply tempted to add my own word
+
+* kule
+(n) color, pigment
+(adj) colorful, colored, painted, pigmented
+(adv) colorfully
+(vi), (vt) to color, to paint, to apply pigment to
+
+* kute
+(n) ear, something that hears, understanding
+(adj) aural
+(adv) aurally, sonically
+(vi), (vt) to hear, to listen, to understand
+
+* la
+(part) marks the end of the context phrase
+
+* lanpan
+(n) seizure (of goods)
+(adj) stolen, seized, taken
+(adv) in a way relating to seizure (of goods)
+(vi), (vt) to take, to steal, to grab
+[notes:] although the overarching theme is "this was taken by force", you'll probably hear it get used in a less aggressive manner
+
+* lape
+(n) sleep, rest, relaxation
+(adj) resting, sleeping
+(adv) sleepily
+(vi) to sleep, to rest
+(vt) to knock out, to cause to sleep
+
+* laso
+(n) blue, aqua, sometimes green
+[notes:] laso sewi is a nice sky blue, laso kasi is a definite green, but in general, laso is largely a blueish tone; part of me wants to use "laso no jan Miku" for aqua blue but like, that's too goofy
+
+* lawa
+(n) head, mind, brain, control, rule, ruler
+(adj) controlling, leading
+(adv) controllingly
+(vi), (vt) to lead, to guide, to control, to rule
+[notes:] I might like, split this up, it is a lot of concepts in one word
+
+* leko
+(n) square, rectangle, block, cube
+(adj) square, cubic, blocky
+(adv) blockily
+(vi), (vt) to cube, to make square
+
+* len
+(n) clothes, cloth, covering, fabric
+(adj) fabric, clothed
+(adv) like clothes
+(vi) to be clothed, to be covered
+(vt) to clothe, to cover
+
+* lete
+(n) coldness, coolness (temperature)
+(adj) cold, cool (temperature), uncooked, chilled, frigid
+(adv) coldly, frigidly
+(vi) to be cold
+(vt) to cool, to chill
+
+* li
+(part) separates the subject from the rest of the sentence
+
+* lili
+
+* linja
+
+* linluwi
+(n) internet, network, any kind of bi-directional electronic or radio communication system
+(adj) regarding the internet
+(adv) "internetly", like the internet
+(vi), (vt) ???
+[notes:] was deeply tempted to not include this but it is genuinely too useful; Toki te Kone is a language of the internet as well and needs a way to express that in one word
+
+* lipu
+(n) book
+
+* loje
+
+* lon
+
+* luka
+(n) hand
+
+* lukin
+(n) eye
+
+* lupa
+(n) hole, indent, door, opening, orifice
+
+* ma
+(n) land, area, place, outside, location
+[notes:] although I'm not 100% sure if it definitely implies outside in Toki Pona, you can totally refer to a large indoor space as "ma" in Toki te Kone
+
+* mama
+(n) parent, originator, creator
+
+* mani
+(n) money
+[notes:] still not sure if I should keep the meaning of like, cattle -- it is confusing every time I see it, but it is both historical and funny
+
+* meli
+(n) female
+(adj) feminine
+
+* meso
+(adj) intermediate, middle, so-so
+
+* mi
+(pn) I/me
+(adj) mine, my
+
+* mije
+(n) male
+(adj) masculine
+
+* misekeke
+(n) medicine
+
+* moku
+(n) food
+(vi), (vt) to eat, to consume
+
+* moli
+
+* monsi
+
+* monsuta
+
+* mu
+
+* mun
+(n) moon, satellite
+
+* musi
+(n) fun, play, entertainment, game
+(adj) fun, entertaining, enjoyable, interesting
+
+* mute
+(adj) very, a lot of
+
+* n
+(i) filler sound, um, uh...
+
+* namako
+(n) spice
+
+* nanpa
+(n) number
+(adj) numeric
+(adv) numerically
+(vi), (vt) to count
+
+* na
+(pn) that
+
+* nasa
+(adj) crazy, foolish, absurd, drunken
+[notes:] in general, this doesn't get used for "stupid", if you really want to say that, go with "... pi sona ala" (... of no knowledge)
+
+* nasin
+(n) path, way, road
+[notes:] this can be (and is often) metaphorical -- nasin kasi would probably refer to botany (plant way)
+
+* nena
+
+* ni
+(pn) this
+
+* nimi
+(n) name, word
+
+* noka
+(n) foot, leg
+
+* o
+(part) calls upon someone/something and optionally marks a command/request upon them; if the part before o is omitted, interpret it as "sina o ..."
+[ex:] jan Tolimi o kama e! (Doremi, come!)
+[ex:] o moku! (Eat!)
+[ex:] jan Teto o! (Hey, Teto!)
+
+* oko
+
+* olin
+
+* open
+
+* pakala
+(i) general swear word
+(n) break, damage, mistake
+(v) to break, to damage, to mess up
+[notes] when used as a swear... it arguably isn't that bad of one, but IRL I will shout "PAKALA A" like if I'm yelling "fucking hell" lol; also, I kind of feel like you can just pretend the word means "oops" and you're just like "OOPS" or "oh, I oopsed it" or "I'm going to 'oops' your face if you don't shut up" ("sina toki ala so mi pakala e sinpin no sina!")
+
+* pali
+
+* pi
+(part) groups a phrase together, like "of" in English
+[ex:] kili pi seli mute (fruit of much heat, pepper)
+
+
+
+numbers:
+All numbers other than 1 and 0 follow the following basic description.
+
+* lei (0)
+(n) zero
+(adj) none of
+(vi), (vt) to make zero, to remove
+
+* wan (1)
+(n) one
+(adj) one of
+(vi), (vt) to become or make singular
+
+* tu (2)
+(n) two
+(adj) two of
+(vi), (vt) to multiply by two
+[notes:] "mi tu e ni" would not mean "to split", but rather, "to double"; try "kipisi tu" for split in half, or "kipisi oto" to divide into eighths
+
+Thus,
+* tuli (3)
+* jon (4)
+* sinko (5)
+* loku (6)
+* nana (7)
+* oto (8)
+* kiju (9)
+all follow the same pattern as tu. Eg, oto is eight as a noun, eight of as an adjective, and to multiply by eight as a verb.
+
+Making larger numbers is done by putting the digits next to each other ("wan lei" would be ten: 1 0 -> 10). Every 1000x increase, add "milu" after (5,630 -> sinko milu ). You can skip any leading zeroes in a group - "wan tu milu wan tuli" would be 1 2 , 1 3 -> 12,013. kiju milu milu would be nine million.
+
+Keeping with the spirit of Toki Pona, if you hear yourself saying milu more than once, that number is certainly too big to make any sense of.

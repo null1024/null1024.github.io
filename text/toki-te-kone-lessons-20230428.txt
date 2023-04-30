@@ -1,0 +1,187 @@
+NOTE: this file is extremely unfinished. Several things may be wrong or contradictory to other files. Important information is missing. Toki te Kone is a work in progress and is subject to change at any time.
+This file in particular may make reference to language features that do not exist in Toki te Kone any more.
+
+Toki te Kone -- lessons
+
+===
+
+Introduction:
+
+Toki te Kone is a constructed language designed to expand upon Toki Pona.
+
+The language is designed to be pretty easy to pick up for a Toki Pona speaker, but also designed to be easy to understand for someone who is new to the language to listen to or read and understand it without too much trouble.
+
+I chose Toki Pona as a base because I love the language quite a bit and because it has a relatively decent speaker count due to its small size. Toki te Kone is full of changes that I'd want in Toki Pona but would both break from the spirit of Toki Pona and no one would adopt them anyway.
+
+If there was one singular change out of everything here that I would make to Toki Pona, it would be the addition of the particle 'u' to mark prepositions. This change alone accomplishes 90% of 
+
+The name Toki te Kone means "Language that Connects". Toki Pona's initial intent was to be a meditative language to simplify one's thoughts and manages to be remarkably good for communication, but Toki te Kone is explicitly intended as a simple and fun language to talk to others with. It does not intend to simplify thought, although it will probably influence things anyway due to its minimalism.
+
+Toki te Kone has no real ambition of being an IAL, and due to my limited linguistic ability, new words are mostly pulled from the short list of languages I have attempted to study, rather than any real attempt to be fair and take from a wide variety of sources.
+
+Toki te Kone still holds minimalism in somewhat high regard, and an effort is made to keep the language far smaller than the vast majority of other constructed languages, let alone natural languages.
+
+I hope you have fun using Toki te Kone. Teach your friends and family, teach random people you find, spread the word of Toki te Kone tawa u jan ale pi ma sike ni!
+
+---
+
+nimi open:
+
+toki te kone li toki sin no mi. toki ni li wile ante e toki pona tan u to sina ken pana e sona mute kepeken u ina.
+
+toki ni la, mi wile e to jan te toki pona li ken kama sona e ina kepeken u pali lili. kin la mi wile e to jan sin li ken kute e en ken sona e toki ni kepeken u pali lili a.
+
+mi pali e ni kepeken u toki pona tan u to mi olin mute e toki te kone.
+
+
+
+===
+
+Lesson 1: basic sentences
+
+---
+
+(!) Vocabulary:
+* mi:
+first person, you the speaker.
+(n/noun) me, I, we
+(d/descriptive) my, ours
+
+* sina:
+second person, whoever you are talking to.
+(n) you, you all
+(d) your
+
+* ona:
+third person animate, for describing anything with sentience
+(n) he, she, they, it (animate)
+(d) his, hers, theirs, its
+
+* ina:
+third person inanimate, for describing objects instead of people or animals or actually sapient machines or whatever
+(n) it (inanimate)
+(d) its
+
+* pona:
+good
+(n) goodness, wellness
+(d) good, well, healthy
+(v/verb) to fix, to make well, to make good, to make ordered
+
+* epiku:
+awesome
+(n) coolness (not temperature), greatness, awesomeness, epicness, excellency
+(d) cool, great, awesome, epic, excellent
+(v) to make cool (not temperature), to make great, to make awesome
+* telo:
+(n) liquid, water
+(d) liquid, wet
+(v) to water, to wash
+* tawa:
+(n) movement, motion
+(d) moving
+(v) to move
+(p/preposition) towards
+* kone:
+(n) connection, link, bond, attachment
+(d) connecting, connective, linked, bonded, attached
+(v) to connect, to link, to bind, to attach
+* pakala:
+(n) damage, crack, split, break, destruction
+(d) broken, messed up, damaged, crushed, destroyed
+(v) to break, to damage, to destroy
+(i/interjection) [used as a swear, although not considered offensive]
+* supa:
+(n) furniture, flat surface, something you can use as a table or a chair (this can include the floor)
+(d) flat
+(v) to flatten
+
+---
+
+(!) Explanation:
+
+A Toki te Kone sentence generally follows one of the following forms:
+
+[NOUN] li [NOUN] ta
+* ona li pona ta. - They are good.
+
+[NOUN] li [VERB].
+* telo li tawa . - Water moves.
+
+[NOUN] li [VERB] e [NOUN]
+* mi li pakala e ijo. - I broke a thing.
+
+Words in Toki te Kone do not have a fixed part of speech. Nearly all words can be either a
+
+'li' separates the subject of the sentence from the rest of it. 'li' can optionally be omitted if the subject is 'mi' or 'sina' on its own. "mi pona" and "mi li pona" are identical, for example.
+
+'e' indicates that a word before it is a verb, and the word after it is what the verb acts upon
+
+For example:
+* mi pona ta. - I am well.
+* sina epiku ta! - You're awesome!
+
+Remember:
+* bad: mi mute tawa e supa - We movingly increase the furniture (nonsense); interpreted the same as "mi li mute tawa e supa"
+* good: mi mute li tawa e supa - We move the furniture.
+
+TODO: homework
+
+===
+
+
+Lesson 2: descriptives
+
+(!) Explanation
+
+A descriptive in Toki te Kone comes after a noun or verb to modify it. Descriptives are basically adjectives and adverbs.
+For example:
+
+* jan meli li tawa nasa e. - This female person moved oddly. (The woman moved oddly)
+* mi pilin lape e. - I feel tired. (literally: I sleepily feel.)
+
+In addition, you can stack multiple descriptives to further describe something:
+
+* jan pona sin - new friend (lit: new good person)
+* pona mute lukin - very pretty (lit: visually very good)
+
+
+Possession is handled by using the pronouns as descriptives.
+For example:
+* supa lape mi - my bed (literally: my resting furniture/surface)
+* ilo sona ileku mi - my computer (literally: my electronic knowledge tool)
+
+In addition, Toki te Kone 
+
+There are no proper nouns in Toki te Kone. Instead, you attach the name as if it were a descriptive.
+
+mi jan Nalu. -- I am (the person called) Null.
+mun Titan li suli ta a en lete ta a. -- The moon Titan is huge and frigid.
+
+
+===
+
+Lesson 3: 
+
+(!) Explanation
+
+
+===
+
+Lesson ?: complicated sentences
+
+You can use the word 'to' (pronounced more like English 'toe') to end the current clause and add a new one.
+
+Grammatically, it is (almost) identical to using 'ni' and starting a new sentence. It is primarily designed to flow better in speech, versus splitting the thought across 
+
+For example,
+
+* mi olin e ni: sina ken kalama pona e ilo kalama linja. - I like this: You can play the guitar well.
+* mi olin e to sina ken kalama pona e ilo kalama linja. - I like that you can play the guitar well.
+
+
+===
+
+
+
+
