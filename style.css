@@ -1,0 +1,84 @@
+/*2023 null1024*/
+/*
+	colors of note:
+	* #ececec - page background color
+	* #fafafa - body background color, active link text
+	* #040404 - default text color, active link background
+	* #11b - link text color
+	* #f00 - link hover color
+
+*/
+
+
+html {
+	background-color: #ececec;
+}
+
+body {
+	width: 60%;
+	min-width: 480px;
+	margin: 1em auto;
+	/*margin-top: 1em;*/
+	color: #040404;
+	background-color: #fafafa;
+	font-size: 1.25em;
+	border: 1px solid #aaa;
+	padding: 1em;
+	/*padding-top: 0;
+	border-top:0;*/
+	overflow-y: scroll;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 0.1em;
+}
+
+a:link, a:visited {
+	color: #11b;
+}
+
+
+a.cleanlink {
+	text-decoration: none;
+}
+
+a.cleanlink:link, a.cleanlink:visited {
+	color: #040404;
+}
+
+a:hover, a.cleanlink:hover {
+	color: #f00;
+}
+
+a:active, a.cleanlink:active {
+	color: #fafafa;
+	background-color: #040404;	
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #040404;
+	/*border-bottom: 1px solid #ccc;*/
+}
+
+ul {
+	margin: 0;
+	margin-bottom: 1em;
+}
+
+.debug {
+	border: 1px solid #f80800;
+}
+
+/*
+a:hover {
+	color: #fafafa;
+	background-color: #11b;
+}
+
+a:active {
+	color: #fafafa;
+	background-color: #040404;
+}*/
