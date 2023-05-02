@@ -68,6 +68,10 @@ ul {
 	margin-bottom: 1em;
 }
 
+li {
+	margin-bottom: 2px;
+}
+
 .debug {
 	border: 1px solid #f80800;
 }
