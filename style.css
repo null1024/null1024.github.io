@@ -27,6 +27,15 @@ body {
 	/*padding-top: 0;
 	border-top:0;*/
 	overflow-y: scroll;
+	line-height: 1.2;
+}
+
+@media (orientation: portrait) {
+	body {
+		width: 80%;
+		min-width: 0;
+		font-size: 1.5em;
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,7 +63,7 @@ a:hover, a.cleanlink:hover {
 
 a:active, a.cleanlink:active {
 	color: #fafafa;
-	background-color: #040404;	
+	background-color: #040404;
 }
 
 hr {
@@ -69,20 +78,9 @@ ul {
 }
 
 li {
-	margin-bottom: 2px;
+	margin-bottom: 6px;
 }
 
 .debug {
 	border: 1px solid #f80800;
 }
-
-/*
-a:hover {
-	color: #fafafa;
-	background-color: #11b;
-}
-
-a:active {
-	color: #fafafa;
-	background-color: #040404;
-}*/
