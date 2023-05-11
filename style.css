@@ -81,6 +81,10 @@ li {
 	margin-bottom: 6px;
 }
 
+a img { /* makes it less ugly in old browsers */
+	border: 0;
+}
+
 .debug {
 	border: 1px solid #f80800;
 }
