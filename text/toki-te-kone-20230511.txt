@@ -1,0 +1,190 @@
+NOTE: this file is extremely unfinished. Several things may be wrong or contradictory to other files. Important information is missing. Toki te Kone is a work in progress and is subject to change at any time.
+This file in particular may make reference to language features that do not exist in Toki te Kone any more. Prior to going on the site, this file was last edited on 11/16/2022mdy. It contains a lot of information all in one spot, but it is VERY out of date, and I have hastily changed things.
+
+Toki te Kone -- the Language that Connects
+
+---
+
+[What is Toki te Kone?]
+
+Toki te Kone is a language based on Toki Pona that is designed to patch over a few omissions and provide ways to allow the speaker to convey more of their intention to the listener. Toki te Kone is ultimately not backwards compatible with Toki Pona, but most things should still mean about the same thing. If you're not sure on whether the meaning of a word has been changed in Toki te Kone, check the updated dictionary.
+
+As of this writing, Toki te Kone requires a basic working knowledge of Toki Pona. Toki Pona is a fairly easy language to learn, and has a fairly large and active community. The base word list is like 137 or so long, and much of the grammar is identical to that in Toki te Kone.
+
+I am currently working on starting-from-zero guide to Toki te Kone, but until then, I recommend Sonja Lang's two books on Toki pona, Toki Pona: The Language of Good (AKA, 'pu') along with the Toki Pona Dictionary (AKA, 'ku'). If you only want one book, get pu first, as it has the lessons.
+ku is a very useful reference and has the 'nimi ku suli' (literally: "important words from the Dictionary"), which are a part of Toki te Kone, but you could look them up online, and I will have a dictionary.
+
+Take note that any of the words in ku that are not part of the 'nimi pu' (the original 123 or so Toki Pona words) or 'nimi ku suli' (the additional words in ku that bring Toki Pona's word count to 137) are not officially part of Toki te Kone.
+For example, the word 'te' has an entirely different meaning in ku. I only recently looked it up and I'm too attached to how te sounds vs other options to change it. Although there is nothing stopping you from deciding to use or promote these extra words, some may be incompatible with Toki te Kone due to it using the word to mean something else entirely.
+
+Being based on Toki Pona, Toki te Kone is still going to be somewhat ambiguous, especially as in many cases, it does not force the speaker to clarify, it merely provides options. In general, it tries to keep things simple even if it still leaves more ambiguity than anyone would like. It tries to keep the spirit of Toki Pona, even if its grammar additions would have never been a part of the base language.
+
+Toki te Kone's changes are expected to make the language more "useful" as an IAL, but ultimately, I have absolutely no expectation that Toki te Kone will ever have sufficient user numbers for that, nor am I really going to push it.
+That being said, it would be immeasurably funny if my half-baked expansion pack ensured that Toki Pona found itself at the forefront of the world stage in some way.
+
+All of the 'nimi ku suli' in Toki Pona are part of Toki te Kone (eg, leko, misekeke, tonsi, even kijetesantakalu). However, the other 'nimi ku lili' are not an official part. Despite this, nothing is really stopping you from learning and using them anyway (you will totally need to explain them to the listener), although new stuff in Toki te Kone might overlap with them.
+
+---
+
+[Philosophy]
+
+Toki te Kone isn't the smallest language, but it strives to be small. It's not the simplest one, but it strives to be simple. Same thing for being easy, useful, etc.
+
+Toki te Kone is in some ways pragmatic, rejecting simplicity in favor of functionality sometimes. In others, it tries to retain the spirit of Toki Pona, since why bother making a language based on Toki Pona if I wanted to reject it?
+
+pa, the standard reference text in Toki te Kone and also a word in the vein of pu and ku
+
+If I ever make a dictionary in the vein of ku, it'll be called ka. Any third major document would ideally be called "la", but that's taken, so maybe it'd be lala.
+
+Toki te Kone doesn't take itself too seriously, even if it's not a joke language. It is intended to have a similar spirit of fun and retain much of Toki Pona's better aspects, but it is also intended to be a language focused on being able to be easily understood in the limitations while remaining easy to speak and learn. Toki te Kone makes the bold claim in the name that it is the Language that Connects, and so being easy to learn and easy to understand are the big things that Toki te Kone strives to do.
+
+Toki Pona, in Sonja Lang's own words, is a philosophical language designed to simplify her thoughts, promote good feelings, and have fun with. Communication is somewhat of an afterthought next to that goal.
+
+Toki te Kone, is a language designed so you can desperately try and convince your friends and family to learn it since it's small. It may end up simplifying thoughts, but it has features designed to expand what you can say over Toki Pona. It may be philosophical since it doesn't wholly reject Toki Pona's ideas, even if some of them are rejected (like with wile or pona -- Toki te Kone distinguishes desires from requirements, alongside goodness and simplicity).
+
+It has a terrible habit of stealing Japanese words because of the extremely compatible phonology combined with my vague familiarity with that language over any others, and a fair few of the new words are made up from whole cloth. I will probably fix this by the time I am done with it.
+
+
+
+
+---
+
+[Toki te Kone for Toki Pona speakers (nasin pi toki te Kone tan jan pi toki pona):
+
+Changes:
+
+* orthography - vowels can now come after other vowels.  Eg, the word "lei" is pronounced le-i.
+Two of the same vowel next to another is treated as saying the vowel twice. At the moment, this doesn't come up, so it might change. For example, a hypothetical word "ii" would be pronounced "i, i", rather than as a long i sound.
+
+* u - marks prepositions. In Toki te Kone, u is mandatory to indicate a preposition.
+I spent a lot of time wondering whether or not to do that, but ultimately, it makes understanding sentences way easier for the listener.
+This also allows for the usage of utala as a preposition to compare things:
+moku mi li utala u moku sina. -> My food is better than yours.
+telo sina li suli utala u telo mi -> Your drink is bigger tha mine.
+In this way, the subject of the sentence is compared favorably to what comes after utala u. 
+The word utala was chosen here because comparing things is basically making them fight. I wanted it to fit in with the spirit of Toki Pona by stating that comparisons are basically fighting words, and I also didn't want to make much more grammar. Similarly, insa u can be used instead of lon u insa ___, and kama u replaces tan meaning origin (tan u now indicates cause, reason -- mi tawa e tan u ma Inli is now I go because of England rather than I leave from England; mi tawa e kama u ma Inli is I leave from England. TODO: might change this maybe, seemed like a better idea in my head )
+* mi tawa e tomo tawa mi tawa u tomo sina. - I moved my vehicle to your house.
+
+* e, li - should no longer be used to describe multiple targets. Use en.
+(X) mi moku e pan e telo. ->  mi moku e pan en telo.
+(X) ona li moku li lape -> ona li moku en lape
+I know that Toki Pona quite deliberately didn't want to use en like this, but it's a low effort change, both for myself and anyone learning Toki te Kone. It is also likely to be understood easily by Toki Pona speakers everywhere anyway.
+Some of Toki te Kone's new features will be harder to interpret without this change, but also, I think multiple li/e was a fairly confusing feature in general, and most if not all sentences using it should have just been split for simplicity.
+Like, you could say (X) "mi alasa li moku e kala e soweli" in Toki Pona and it's a bit awkward to parse. In Toki te Kone, that would be "mi (li) alasa en moku e kala en soweli."
+
+* te - te forces the next word to be interpreted as a descriptive verb. This is the most immediately visible addition, seeing as it's used in the name of Toki te Kone.
+te also forces the previous word to be a noun as a direct result of its operation.
+You can use e after te to describe the target of that descriptive verb.
+eg: jan te moku (person who eats) vs jan moku (food person), or jan te moli (person who kills) vs jan moli (death person; likely a dead person rather than a killer); jan pona (person of good, likely friend) vs jan te pona (person who fixes, repair person)
+Some words will remain a little ambiguous (jan te telo -- is that someone who cleans? someone who waters (like, plants)?), and an e phrase after can really help (jan te telo e kasi, for example for "someone who waters the plants")
+
+For example:
+* mi jan te utala e jan ike. - I am a warrior against evil people. (lit: I am a person who fights bad people)
+* jan te pali e moku pona li jo ala e mani. - The chef who cooks good food has no money.
+* jan poka mi li jan te pali e moku - My neighbor is a person that makes food.
+jan pona mi li jan te moli e pipi. - My friend is an insect exterminator.
+
+* ka - very similar to te, but indicates that the verb acts on the noun. Contrast leko ka pakala (broken block) vs leko te pakala (crushing block).
+I saw an interesting discussion on whether "jan pakala" would be describing an aggressor (person who breaks) or a victim (broken person), and ultimately, ka is a way to clear that up. jan ka pakala is someone who is hurt or broken. jan te pakala is someone who breaks or destroys things.
+As a personal side note, if I, me, myself am saying "jan pakala", it is in reference to someone who has screwed up or done something wrong lol -- tempted to use "jan te nasa" in that situation ("person of maddening", "person who drives mad")
+jan ka pona -- person who was helped
+
+
+* li - can now be used after mi or sina. Still not mandatory after those words. Many sentences can be made easier to parse by not omitting li.
+eg, mi li pona. ("I'm fine.")
+
+* na - means "that" or "there", as a counterpart for ni ("this" or "here"). na can imply distance, whether physically or temporally.
+tenpo na la sina pakala e noka. -> "that time, you hurt (your) leg"
+mi olin e ni. taso, na li ike tawa u mi. -> "I love this, but I don't like that."
+was tempted to add a third option like kono, sono, ano in Japanese -- this (near me), that (near you), that (off by neither of us), but nah, complexity
+
+* ta - used after a word to force it to be an adjective.
+ina li moku ta. -> It is edible.
+
+* e - In addition to its usual use, e can be used after a word with nothing after to force it to be a verb.
+eg: mi moku e (I eat). Contrast mi moku (possibly "I am food").
+
+* in - can be used after a word to force it to be a noun.
+eg: mi moku in. ("I am food").
+tawa in sina li nasa a. -- Your movements are really chaotic.
+
+* kone - word meaning connection, attachment, to connect, connective. A connection can be emotional or physical. "lipu kone" is probably "tape". A "linja kone" might be a USB cable or similar (linja toki might be less ambiguous)... or a tied rope. An "ilo kone" might be a phone... but it might also be a stapler. ilo pi kone lipu is much less ambiguous, as would be ilo toki.
+mi kone tawa sina might be "I'm connected to you.", whether physically, emotionally, spiritually, familially, etc.
+leko kone could be any kind of connecting building blocks (eg, Lego bricks)
+kone is based on the English word connect because I'm lazy.
+
+* saka - around, about, to round, to approximate, approximately, close to, approximation
+mi jo e ijo tuli lei saka 
+
+* numbers - Toki te Kone numbers are represented as a list of base-10 digits, from largest to smallest. Toki te Kone still agrees somewhat with Toki Pona's aversion to numbers, but has decided that they're useful anyway and designed a simple way to represent numbers big and small.
+The digits are:
+0 - lei
+1 - wan
+2 - tu
+3 - tuli
+4 - jon
+5 - sinko
+6 - loku
+7 - nana
+8 - oto
+9 - kiju
+These are a mix of various language numbers, but like much of Toki te Kone, the additions will be in languages I'm more familiar with more often than not (so, english, romance languages, japanese). I picked them because I liked how they sounded, rather than any real logic.
+Numbers can be used as verbs.
+For example, "mi wan e ni" (I cause this to become one), "mi lei e ni" (I cause this to become nothing), "mi loku e ni" (I cause this to become five).
+lei is used instead of ala as a counting number so that it doesn't interfere. For example, "mi wan ala e ni" (I don't cause this to become one).
+Numbers come before what they are counting, unlike other descriptives. "mi jo e nana wan ijo" would be "I have 91 things." This keeps them outside of adjective ordering.
+
+26 would be tu loku.
+100 would be wan lei lei.
+Every 1000x increase, the word 'milu' can be used to separate for clarity. This is not mandatory. 4096 would then be jon milu lei kiju loku, but could also just be jon lei kiju loku.
+You can also say something like wan milu (1000), wan milu tu (1002), kiju milu kiju kiju (9099)
+10 million would be wan lei milu milu. 
+1 billion would be wan milu milu milu.
+1,234,567,890 would be wan milu tu tuli jon milu sinko loku nana milu oto kiju lei. This number is a mess, but like, if you're being that precise in Toki te Kone, you deserve it. :P
+
+
+This is a pretty major addition, that allows for things like saying what time it is.
+
+A half-baked system that I propose for time in Toki Kone is given as 4 digits, from 0000 to 2359, but it feels like it's probably not ideal. Any changes are welcome, but this, like the number system in general, is intended to allow someone to say the time aloud instead of switching to another language.
+eg, "it is 4:30pm (16:30) now" -- "tenpo ni li tenpo wan loku tuli lei."
+This is probably not a great system and probably will end up getting changed, but until then, it's here.
+
+mi jo e kijetesantakalu sinko lei. -- I have fifty raccoons.
+
+* nike - word meaning victory, win, winning
+eg, "mi nike e ilo musi ni!" (I beat this videogame!)
+utala la jan ala li nike e. (Regarding war, no one wins.)
+
+* so - used for if/then statements. la is no longer used for them, la now only has the sense of "in the context of".
+sina moku e pan suwi sina so sina jo ala e ona. -> If you eat your cake, you will not have it.
+this came out way more englishy than I'd like but it also feels really good to use
+
+* to - combine another sentence.
+This particle can be used in place of constructions like "e ni: ___" or "tan ni: ___" or "tawa ni: ___". It mostly exists to flow better and prevent confusion with other uses of ni. It can't be used everywhere that ni would be used to connect two sentences, but it solves a common case and flows better.
+For example:
+mi pilin e ni: pali sina li pona. -> mi pilin e to pali sina li pona. (I think your work is good.)
+mi tawa tan ni: sina wile utala e mi -> mi tawa tan u to sina wile utala e mi. (I'm going [elsewhere] because you want to fight me.)
+mi olin e to mi pali e ilo musi. - I enjoy making video games. (lit: I enjoy that I make technological games.)
+mi wile lape tan u to ni li musi ala - I want to sleep because this isn't interesting.
+
+ona li toki e to "mi li lanpan ala e ijo sina!" -- They said, "I didn't steal your thing!"
+
+* lila (?) - part, portion, piece, to portion, to split
+mi kama jo e lila pi moku sina. - I'm taking a bit of your food. 
+modified from lili
+
+* matome (?) - list, log, sequence, collection, to list, to sequence
+lipu ilo pi matome pali - program (lit: computer document of work list)
+o toki matome e nimi pi jan ale pi kulupu sona ni! - List the names of all of these classmates!
+TODO: might change this one
+
+* wile -- no longer means need. TODO: add new word for that.
+
+* -- need
+
+* -- to interrupt, pause, paused
+
+---
+
+mi pali e lipu ni lon tempo lei sinko lei tuli...
+mi wile lape, taso mi pali e ni.
