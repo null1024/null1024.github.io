@@ -28,6 +28,7 @@ body {
 	border-top:0;*/
 	overflow-y: scroll;
 	line-height: 1.2;
+	/*box-shadow: -4px 4px #d0d0d0 /*dunno*/
 }
 
 @media (orientation: portrait) {
