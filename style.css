@@ -31,11 +31,12 @@ body {
 	/*box-shadow: -4px 4px #d0d0d0 /*dunno*/
 }
 
+/* "mobile second", lol */
 @media (orientation: portrait) {
 	body {
-		width: 80%;
+		width: 85%;
 		min-width: 0;
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 }
 
