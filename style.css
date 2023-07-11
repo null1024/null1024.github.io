@@ -6,9 +6,7 @@
 	* #040404 - default text color, active link background
 	* #11b - link text color
 	* #f00 - link hover color
-
 */
-
 
 html {
 	background-color: #ececec;
@@ -38,6 +36,26 @@ body {
 		min-width: 0;
 		font-size: 2em;
 	}
+	/*
+	TODO: this is a dirty hack that isn't standard, but it does exactly what I need
+	apparently this doesn't work in Firefox?
+	*/
+	img {
+		zoom: 2;
+	}
+	/*
+	the correct form looks something like this, but it doesn't entirely solve the issue
+	img { 
+		-moz-transform: scale(2);
+		-ms-transform: scale(2);
+		-o-transform: scale(2);
+		-webkit-transform: scale(2);
+		transform: scale(2);
+	}
+	clearly, standards are for chumps :Y
+	I'm probably going to need to edit every img tag to do this the correct way, bleh.
+	*/
+	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,6 +68,13 @@ a:link, a:visited {
 	color: #11b;
 }
 
+/*page you're currently on*/
+/*
+todo: figure out something that looks good*/
+a.current_page {
+	font-weight: bold;
+}
+/**/
 
 a.cleanlink {
 	text-decoration: none;
