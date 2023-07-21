@@ -37,7 +37,7 @@ body {
 		font-size: 2em;
 	}
 	/*
-	TODO: this is a dirty hack that isn't standard, but it does exactly what I need
+	TODO: this is a dirty hack that isn't standard, but it does _exactly_ what I need, bleh
 	apparently this doesn't work in Firefox?
 	*/
 	img {
@@ -54,6 +54,18 @@ body {
 	}
 	clearly, standards are for chumps :Y
 	I'm probably going to need to edit every img tag to do this the correct way, bleh.
+	apparently Chrome is planning to drop it
+	
+	.link_icon { //put outside of this mobile-second area
+		width: 12px;
+		height: 12px;
+	}
+	
+	.link_icon {
+		width: 24px;
+		height: 24px
+	}
+	
 	*/
 	
 }
@@ -68,7 +80,7 @@ a:link, a:visited {
 	color: #11b;
 }
 
-/*page you're currently on*/
+/*page you're currently on -- actually, I don't quite use this consistently for that, I need to figure that out*/
 /*
 todo: figure out something that looks good*/
 a.current_page {
@@ -111,6 +123,25 @@ li {
 a img { /* makes it less ugly in old browsers */
 	border: 0;
 }
+
+table, th, td {
+	border: 1px solid #040404;
+	background-color: #fefefe;
+}
+table {
+	border-collapse: collapse;
+	margin-left: 4px;
+}
+caption { /* captions attach to the table */
+	border: 1px solid #040404;
+	background-color: #eee;
+	border-bottom: 0;
+}
+/**/
+th, td, caption {
+	padding: 2px;
+}
+
 
 .debug {
 	border: 1px solid #f80800;
